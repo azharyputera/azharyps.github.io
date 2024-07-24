@@ -1,3 +1,5 @@
 # add the following to _config.yml file
 title: Al Azhary Putera Satria
+# logo:
+description: Data Scientist with a Materials Engineering background. Applying a strong analytical mindset and technical skills to build predictive models and uncover actionable insights.
 theme: jekyll-theme-minimal
