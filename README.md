@@ -1,7 +1,7 @@
 # DATA SCIENTIST
 
 ## Education
-**Data Science and Machine Learning Bootcamp Scholarship | Purwadhika Digital School at Batam (March - Presents)**
+**Data Science and Machine Learning Bootcamp Scholarship | Purwadhika Digital School at Batam (March 2024 - Presents)**
 - Developed a Gym Membership Application with Python(Capstone 1 Project)
 - Conducted Data Analysis to Increase Revenue of Supermarket by using RFM Analysis for Customer Segmentation (Capstone 2 Project)
 - Developed XGBoost Machine Learning Regression Model to Predict Used Cars Price in Saudi Arabia Online Platform.
